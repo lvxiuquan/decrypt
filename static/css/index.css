@@ -1,0 +1,25 @@
+.main_content {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.left_bar .code_text, .right_bar .code_text {
+  height: 500px;
+}
+
+.option_type label, .option_passwd label {
+  margin-top: 10px;
+}
+
+.option_type ul, .option_button ul {
+  margin-left: 50px;
+}
+
+.option_button {
+  padding-top: 20px;
+}
+
+.option_button ul li {
+  margin: 10px 0;
+}
