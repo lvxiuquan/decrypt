@@ -4,8 +4,14 @@
   margin: 0 auto;
 }
 
-.left_bar .code_text, .right_bar .code_text {
+/* .left_bar .code_text, .right_bar .code_text {
   height: 500px;
+} */
+
+@media(min-width:768px){
+  .left_bar .code_text, .right_bar .code_text {
+    height: 500px;
+  }
 }
 
 .option_type label, .option_passwd label {
